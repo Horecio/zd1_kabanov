@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">zad!_kabanov</string>
+    <string name="welcome">Good Day</string>
+    <string name="enter">enter</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>

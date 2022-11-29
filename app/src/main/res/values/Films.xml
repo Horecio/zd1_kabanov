@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+
+
+    -<string-array name="Films">
+
+    <item>Iron man</item>
+
+    <item>The Batman</item>
+
+    <item>Nothing good at the El Royal Hotel</item>
+
+</string-array>
+
+</resources>
